@@ -2,4 +2,5 @@ line1 in remote main
 Line2 in remote main
 Line3 in remote main
 Line4 in remote feature
-Line4 in remote feature
+Line5 in remote feature
+Line6 in remote feature
